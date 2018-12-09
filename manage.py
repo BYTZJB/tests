@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+这下怎么办
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), os.path.pardir))
 
 if __name__ == "__main__":
